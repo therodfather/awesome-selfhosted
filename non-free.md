@@ -4,6 +4,7 @@
 
 ## Analytics
 
+- [userTrack](https://www.usertrack.net/) `⊘ Proprietary` - userTrack is a web analytics platform with heatmaps, session recordings and powerful user segmentation feature. Updated very regularly. ([Demo](http://dashboard.usertrack.net/)) `PHP/MySQL/ReactJS`
 - [UXLens](https://uxlens.com/) `⊘ Proprietary` - UXLens is a website visitor recording software meant for identifying UI issues and fix them to improve user experience. Formerly known as SessionRecord ([Demo](https://console.uxlens.com/test)) `Docker Nodejs`
 
 
@@ -20,20 +21,12 @@
 - [Groupboard](https://www.groupboard.com) `⊘ Proprietary` - Online whiteboard, audio/video conferencing, screen sharing, shared code editing and optional session recording/playback.
 - [HipChat](https://www.atlassian.com/software/hipchat) `⊘ Proprietary` - A team chat solution with 1:1 chat audio and video, third party integration and more. `PHP/Python`
 - [PrivMX WebMail](https://privmx.com) - an alternative private mail system - web-based, end-to-end encrypted by design, self-hosted, decentralized, uses independent PKI. Easy to install and administrate, freeware, open-source. `PHP`
-  
-## Decentralized Network
-
-- [Synereo](https://www.synereo.com/) - Decentralized network system based on blockchain that allows fast speed and great trust level. ([Source Code](https://github.com/synereo/synereo)) `Scala`  
 
 ## E-books and Integrated Library Systems (ILS)
 
 - [Ubooquity](https://vaemendis.net/ubooquity/)  `⊘ Proprietary` - Ubooquity is a free to use, versatile, lightweight, multi-platform, and secure home server for your comic and e-book library. `Java`
  
-## Federated Identity/Authentication
 
-- [Auth0](https://auth0.com/docs/appliance): `⊘ Proprietary`. Identity made simple for developers. `NodeJS`
-
-  
 ## File Sharing and Synchronization
 
 - [Resilio Sync](https://www.resilio.com/) `⊘ Proprietary` - Resilio Sync by Resilio, Inc is a proprietary peer-to-peer file synchronisation tool.
@@ -82,7 +75,7 @@
   
 ## Project Management
 - [Active Collab](https://www.activecollab.com/) `⊘ Proprietary` - Project management - `PHP`
-- [Duet](https://duetapp.com/) `⊘ Proprietary` - Invoicing and project management with an integrated client portal. ([Demo](https://duetapp.com/demo/#dashboard)) `PHP`
+- [Duet](https://duetapp.com/) `⊘ Proprietary` - Invoicing and project management with an integrated client portal. ([Demo](https://duetapp.com/start-demo)) `PHP`
 - [Kantree](https://kantree.io) `⊘ Proprietary` - Work management and collaboration - `Python`
 - [Solo](http://www.getsoloapp.com/) - Solo is a free project management app created for freelancers. Create contacts, manage tasks, upload files, track project progress, and keep notes. ([Demo](http://www.getsoloapp.com/demo/)) `PHP`
 
@@ -104,14 +97,15 @@
 - [Crucible](https://www.atlassian.com/software/crucible/overview) `⊘ Proprietary` - A peer code review application `Java`
 - [Documize](https://documize.com) `⊘ Proprietary` - Modern docs & wiki software built for software team collaboration. `Go`
 - [JIRA](https://www.atlassian.com/software/jira) `⊘ Proprietary` - A professional and extensible issue tracker `Java`
+- [Kloudless](https://kloudless.com) `⊘ Proprietary` - Platform for native, embedded, SaaS integrations using Unified APIs. `Python`
 - [RhodeCode](https://rhodecode.com) `⊘ Proprietary` - On-premise Source Code Management for Mercurial, Git & Subversion. `Python`
 - [BitBucket Server](https://www.atlassian.com/software/bitbucket/server) `⊘ Proprietary` - An enterprise-level Git solution similar to GitLab `Java`
-
   
 ## Ticketing
 - [Full Help](https://www.fullhelp.com/en/) `⊘ Proprietary` - Simple, easy to use help desk & knowledge base software. Custom branding, custom themes, restful API, communication channels, multi-company support, multi-language support, and much more! At least 1 new release per month. [Changelog](https://www.fullhelp.com/en/changelog) `PHP`
 - [Jitbit Helpdesk](https://www.jitbit.com/helpdesk/) `⊘ Proprietary` - Self-hosted help desk software - simple but powerful. ([Demo](https://www.jitbit.com/hosted-helpdesk/trial/)) `ASP.NET`
 - [SupportPal](https://www.supportpal.com/) `⊘ Proprietary` - Powerful help desk software - easy, fast and intuitive. ([Demo](http://demo.supportpal.com/)) `PHP`
+- [Cerb](http://www.cerberusweb.com/) - Group-based e-mail management project. ([Source Code](https://github.com/wgm/cerb)) `DPL` `PHP`
 
 
 ## Time Tracking
